@@ -1,0 +1,16 @@
+.portfolio-item {
+    margin: 5px;
+    color: black;
+    text-decoration: none;
+  }
+  
+  .portfolio-item:hover {
+    margin: 5px;
+    color: blue;
+  }
+  
+  .container {
+    position: relative;
+    text-align: left;
+    margin: 10px;
+  }
