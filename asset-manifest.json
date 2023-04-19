@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8fb700fd.css",
+    "main.js": "/static/js/main.12dafeb4.js",
+    "static/media/los angeles city.jpeg": "/static/media/los angeles city.98b905d1bbb11b0ada4b.jpeg",
+    "static/media/QuizGame.png": "/static/media/QuizGame.35e4513d776086894c21.png",
+    "static/media/NoteTaker.png": "/static/media/NoteTaker.150d201dc51e207a0134.png",
+    "index.html": "/index.html",
+    "main.8fb700fd.css.map": "/static/css/main.8fb700fd.css.map",
+    "main.12dafeb4.js.map": "/static/js/main.12dafeb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fb700fd.css",
+    "static/js/main.12dafeb4.js"
+  ]
+}
