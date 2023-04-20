@@ -20,7 +20,7 @@ export default function About() {
                   <div className="featured-text text-left text-lg-left">
                     <h4>Davey Melero</h4>
                   
-                    <p className="text-black-50 pt-2">I am currently going to school for coding to become a developer. I like to watching and play sports on my free time and also play video games. I also like spending time with friends and family, while making a barbecue </p>
+                    <p className="text-black-50 pt-2">Hey, my name is Davey Melero am born in Los Angeles, Cailfornia. I am currently going to school for coding to become a developer. I like to watching and play sports on my free time and also play video games. I also like spending time with friends and family, while making a barbecue </p>
                   </div>
                 </div>
 

@@ -1,0 +1,33 @@
+#home {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 760px;
+    color: white;
+}
+
+#home::before{
+    content: "";
+    position:absolute;
+    top: 0;
+    right: 0;
+    background: url(./images/los\ angeles\ city.jpeg) no-repeat center center/cover;
+    height: 800px;
+    width: 100%;
+    z-index: -1;
+}
+
+.main-intro {
+    position: absolute;
+    top: 30%;
+    right: 10%;
+}
+
+
+
+
+
+#intro {
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    padding: 40px;
+}
